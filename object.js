@@ -7,7 +7,7 @@ function parsingData(inputData){
 const dataSTNKUjang = { //JSON Object
     "nama"  : "Ujang",
     "usia" : 24,
-    "tipe" :"Avanza",
+    "tipe" :"Yaris",
     "plat" : "B 1234 AGG",
     "biaya" : 600000,
     "isBayar" : false,
