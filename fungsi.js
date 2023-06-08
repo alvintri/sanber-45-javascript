@@ -11,7 +11,7 @@ namaFungsi() // maka akan  menghasilkan -> Hello World
 //Hasilnya adalah a+b
 //Fungsi dengan param
 function penjumlahan(a,b){
-    console.log(a+b)
+    console.log(a+b+1)
 }
 
 penjumlahan(1,2) //Ini harusnya 3
